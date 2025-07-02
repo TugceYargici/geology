@@ -16,7 +16,7 @@ st.markdown("""
 
 
 st.set_page_config(page_title="Normal Fault Simulation", layout="wide")
-st.title("What is this normal fault realy?")
+st.title("What is this normal fault really?")
 
 
 # Parameters
